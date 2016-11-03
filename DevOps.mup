@@ -1,0 +1,63 @@
+{
+  "title": "DevOps",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "CULTURE",
+      "id": 2
+    },
+    "6": {
+      "title": "MEASURE",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "CYCLE TIME",
+          "id": 6
+        },
+        "2": {
+          "title": "MEAN TIME TO RECOVERY",
+          "id": 7
+        }
+      }
+    },
+    "11": {
+      "title": "AUTOMATION",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "VERSION CONTROL",
+          "id": 8
+        },
+        "2": {
+          "title": "AUTOMATE BUILDS",
+          "id": 9
+        },
+        "3": {
+          "title": "CONTINUOUS INTEGRATION",
+          "id": 10
+        },
+        "4": {
+          "title": "AUTOMATED ACCEPTANCE TESTS",
+          "id": 11
+        },
+        "5": {
+          "title": "AUTOMATED UNIT TESTINT",
+          "id": 12
+        },
+        "6": {
+          "title": "INSPECTION",
+          "id": 13
+        }
+      }
+    },
+    "21": {
+      "title": "ORGANIZATION",
+      "id": 14
+    },
+    "31": {
+      "title": "PROCESS",
+      "id": 15
+    }
+  }
+}
